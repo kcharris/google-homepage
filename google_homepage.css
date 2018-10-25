@@ -1,0 +1,18 @@
+.google{
+    width: fit-content;
+    margin: 0 auto;
+    position: relative;
+    padding-top: 200px;
+}
+.navbarleft{
+    position: relative;
+    padding: 10px;
+    margin-top: 0;
+    float: left;
+}
+.navbarright{
+    position: relative;
+    padding: 10px;
+    margin-top: 0;
+    float: right;
+}
